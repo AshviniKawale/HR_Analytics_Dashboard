@@ -6,35 +6,35 @@ The HR Analytics Dashboard is an interactive data visualization tool designed to
 ## Key Features
 
 ## • Workforce Overview:
-o	Total employees: 1,470
-o Attrition Count: 237 employees
-o	Attrition rate: 16.1%
-o	Average age: 37
-o	Average salary: $6.5K
-o	Average tenure: 7 years
+-	Total employees: 1,470
+- Attrition Count: 237 employees
+-	Attrition rate: 16.1%
+-	Average age: 37
+-	Average salary: $6.5K
+-	Average tenure: 7 years
 
 ## •	Attrition Insights:
-o	Attrition by education (e.g., Life Sciences, Marketing, Medical, etc.)
-o	Attrition by age group (e.g., 26-35, 18-25)
-o	Attrition by job roles (e.g., Laboratory Technicians, Sales Executives)
-o	Attrition by years of Company
-o	Attrition by salary slabs
-o Attrition by Gender
+-	Attrition by education (e.g., Life Sciences, Marketing, Medical, etc.)
+-	Attrition by age group (e.g., 26-35, 18-25)
+-	Attrition by job roles (e.g., Laboratory Technicians, Sales Executives)
+-	Attrition by years of Company
+-	Attrition by salary slabs
+- Attrition by Gender
 
 ## •	Interactive Visuals:
-o	Pie charts, bar graphs, and line charts for detailed analysis.
-o	Gender distribution breakdown.
-o	Departmental insights across HR, R&D, and Sales.
+-	Pie charts, bar graphs, and line charts for detailed analysis.
+-	Gender distribution breakdown.
+-	Departmental insights across HR, R&D, and Sales.
 
 # Benefits:
-o	Identify high-attrition job roles and demographics.
-o Optimize retention strategies with targeted interventions.
-o	Gain insights into workforce composition and salary trends.
+-	Identify high-attrition job roles and demographics.
+- Optimize retention strategies with targeted interventions.
+-	Gain insights into workforce composition and salary trends.
 
 # Technology Stack
-o Data Visualization Tool: Power BI (for interactive dashboards).
-o Dataset: HR records including employee demographics, salaries, job roles, and tenure (CSV or database format).
-o Skills Required: Data cleaning, analysis, and visualization.
+- Data Visualization Tool: Power BI (for interactive dashboards).
+- Dataset: HR records including employee demographics, salaries, job roles, and tenure (CSV or database format).
+- Skills Required: Data cleaning, analysis, and visualization.
 
 
 # Screenshot:
